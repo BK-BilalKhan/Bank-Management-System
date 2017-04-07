@@ -1,0 +1,7 @@
+BANK MANAGEMENT SYSTEM (Copr. 2014 Project) - DATA,,,,,,,,,,,,,,,
+Authentication,,Type,Amount,Personal Detail of Account Holder,,,,,,,,Address,,,
+Account Number,Account Password,Account Type,Balance,Name,F/H Name,Date of Birth,Gender,Occupation,Qualification,Phone Number,Creation Date,Address,City,State,Postal Code,
+C001,C1,Current,312.970000,Bilal,-,--/--/--,Male,Student,-,0300-3276605,20-12-2014 07:19:24,-,Karachi,Pakistan,71004,
+S002,S1,Saving,2402.000000,Ahsan,-,--/--/--,Male,Student,-,-,20-12-2014 07:20:04,-,Karachi,Pakistan,
+S003,S23554,Saving,4500,ABC,-,--/--/--,Female,Student,-,-,20-12-2014 07:42:16,-,-,-,-,
+C004,C17336,Current,0,Unknown,-,--/--/--,Male,-,-,1234567,24-12-2014 05:56:40,1,-,-,71004,

@@ -1,0 +1,4 @@
+BANK MANAGEMENT SYSTEM (Copr. 2014 Project) - LOAN DATA,,,,,,,,,,,,,,,,,,
+S/N,Name,CNIC,Email,Contact,City,Monthly Income,Company Name,Segment,Best day to contact you,Creation Date,Loan Amount,Annual Interest Rate,Monthly Interest Rate,Monthly Payment,Total Paid Back,Total Interest Paid,Number of Payment (Month),Last Paid (Date)
+L001,Bilal,14001-2345678-5,k132314@nu.edu.pk,3276605,,50000,-,-,16-Nov,24-12-2014 05:02:22,20000,1.5,0.125,3095.01,43330.2,23330.2,14,24-12-2014 05:44:17
+L002,Ahsan,12345-1234567-1,k132386@nu.edu.pk,3276605,,400000,-,-,12-Nov-15,24-12-2014 05:05:18,20000,0.2,0.0166667,1852.69,22232.3,2232.28,12,Not Paid Yet.

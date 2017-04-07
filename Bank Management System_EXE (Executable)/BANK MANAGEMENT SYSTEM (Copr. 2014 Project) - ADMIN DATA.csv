@@ -1,0 +1,5 @@
+BANK MANAGEMENT SYSTEM (Copr. 2014 Project) - ADMIN DATA,,,,,,,,,,,,,,
+Authentication,,Type,Personal Detail of Admin,,,,,,,,Address,,,
+Admin Name,Admin Password,Admin Type,Name,F/H Name,Date of Birth,Gender,Occupation,Qualification,Phone Number,Creation Date,Address,City,State,Postal Code
+Bilal,CP,FULL ACCESS,Bilal,-,--/--/--,Male,Student,-,0300-3276605,20-12-2014 07:15:05,-,Karachi,Pakistan,71004
+Ahsan,A19646,FULL ACCESS,Ahsan,-,--/--/--,Male,Student,-,-,20-12-2014 07:17:45,-,Karachi,Pakistan,71004
